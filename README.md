@@ -2,7 +2,7 @@
 
 `npm i muse-js-tinybuild`
 
-Browser: `<script src="https://cdn.jsdelivr.net/npm/muse-js-tinybuild@0.0.2/dist/muse.min.js"></script>` then MuseClient will be in the window
+Browser: `<script src="https://cdn.jsdelivr.net/npm/muse-js-tinybuild@1.0.0/dist/muse.min.js"></script>` then MuseClient will be in the window
 
 Just a repackaging of MuseClient to try to minify the library as much as possible using [`tinybuild`](https://github.com/brainsatplay/tinybuild).
 
