@@ -13,7 +13,7 @@ const config = {
         minify: true,
         sourcemap: false,
         globals:{'muse.ts':['MuseClient']},
-        init:{'muse.ts':function test(bundle) { console.log('prepackaged bundle script!', bundle) }.toString()}      
+        //init:{'muse.ts':function test(bundle) { console.log('prepackaged bundle script!', bundle) }.toString()}      
      },
     server: {  //node server settings, set false to skip server step or add serve:true to config object to only serve (alt methods)
         debug: false,

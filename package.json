@@ -1,6 +1,6 @@
 {
   "name": "muse-js-tinybuild",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "muse-js with just MuseClient bundled for more minimal include size (187kb, mostly due to rxjs)",
   "main": "dist/muse.js",
   "module":"dist/muse.esm.js",
